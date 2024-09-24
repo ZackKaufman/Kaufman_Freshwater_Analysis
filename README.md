@@ -2,7 +2,8 @@
 
 Authors: Zachary Kaufman, Earle Wilson, Rebecca Beadling, Ariaan Purich, Yuchen Li 
 Submitted to Geophysical Research Letters (9/20/24) 
-Code by Zachary Kaufman 
+
+Code by Zachary Kaufman, current version in review 
 
 The repository contains Python notebooks to produce Figures 1-3 using the source data provided as .nc files. Most  model and reanalysis output has been pre-processed on Sherlock, Stanford’s high-performance computing cluster, and provided here as smaller files requiring minimal compute resources. 
 
