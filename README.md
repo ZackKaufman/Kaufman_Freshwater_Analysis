@@ -2,7 +2,7 @@
 
 Authors: Zachary Kaufman, Earle Wilson, Rebecca Beadling, Ariaan Purich, Yuchen Li
  
-Submitted to Geophysical Research Letters (september 2024)
+Submitted to Geophysical Research Letters (September 2024), [Preprint Link](https://essopenarchive.org/users/836836/articles/1228563-the-impact-of-underestimated-southern-ocean-freshening-on-simulated-historical-sea-surface-temperature-trends)
 
 Code by Zachary Kaufman
 
